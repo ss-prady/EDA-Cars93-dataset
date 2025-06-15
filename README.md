@@ -22,7 +22,7 @@ Insights & Interpretations (Price Variability, Mileage Trends, etc.)
 **Price vs Performance:** Higher horsepower cars tend to have a **significantly higher price range**.  
 **Fuel Efficiency & Weight:** Lighter cars generally exhibit **better mileage**, confirming real-world trends.  
 **Correlation Findings:**  
-&nbsp;&nbsp;&nbsp;&nbsp;�**High correlation**: `Horsepower` & `Price` (Luxury cars = more power)  
+&nbsp;&nbsp;&nbsp;&nbsp;**High correlation**: `Horsepower` & `Price` (Luxury cars = more power)  
 &nbsp;&nbsp;&nbsp;&nbsp; **Low correlation**: `Passengers` & `Length` (Bigger doesn’t always mean more space!)  
 **Outliers Identified:** Some **extreme values** were detected and filtered using an **Isolation Forest model**.  
 
